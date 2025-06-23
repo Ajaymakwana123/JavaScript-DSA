@@ -1,3 +1,5 @@
 * 1 + "2" -- aane concetination kevay ek integer and string ni vache + aave tene concetination kevay.
 
 * number to string , string to number , mtlb ek type mathi bija type ma change kriye tene type casting kevama aave che.
+
+* use Math.floor for int value like : without 0.3424 , with 0
