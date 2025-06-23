@@ -45,3 +45,19 @@ console.log(ss % 100);
 // question:: jyare mare last na digit sivay ni value jove tyre :
 console.log(Math.floor(ss / 10));
 //ans : 375
+
+console.log(Math.round(10.3)); // .5 thi niche ni value 10 and 5 or 5 thi vadhu 11 thay
+console.log(Math.ceil(10.1)); // koy pn point value aave ene agal vadhri dey ans: 11
+console.log(Math.trunc(19.55)); // just remove dot pachi ni value
+console.log(Math.pow(2, 5)); //2^5 ans: 32 2ne 5 var 2 jode gunakar like: 2*2*2*2*2
+console.log(Math.sqrt(16)); //square root aape ans: 4
+console.log(Math.abs(-13)); // convert negative to positive ans: 13
+console.log(Math.max(12,43,88,76)); // give me big value ans: 88
+console.log(Math.max(43,12,76,88)); // give me small value ans: 12
+console.log(Math.random()); // 0 to 1 ni random value lavi dey
+console.log(ss.toFixed(2)); // mtbl point pachi 2 value aavse
+
+
+
+
+ 
